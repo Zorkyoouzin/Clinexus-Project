@@ -1,6 +1,6 @@
 # Clinexus-Projec
 
-Sistema de apoio à gestão de pesquisas com animais de laboratório (Laboratório de Neurobiologia de Sistemas — UFG). Aplicação web responsiva para PC e celular. TCC em Engenharia de Software.
+Sistema de apoio à gestão de pesquisas com animais de laboratório (Laboratório de Neurobiologia de Sistemas — UFG). Aplicação web responsiva para PC e celular.
 
 ## Documentos
 1. [Objetivo](01-objetivo.md)
