@@ -8,5 +8,5 @@ Sistema de apoio à gestão de pesquisas com animais de laboratório (Laboratór
 3. [Diagrama de Casos de Uso](3.diagrama-casos-de-uso.md)
 4. [Detalhamento dos Casos de Uso](4.detalhamento-casos-de-uso.pdf)
 5. [MER](5.Clinexus-mer.pdf)
-6. [Dicionário de Dados](6.dicionario-de-dados.pdf)
+6. [Dicionário de Dados](6.Clinexus_Dicionario_Dados.pdf)
 7. [Resumo em DOCx](Clinexus-Documentacao.docx)
